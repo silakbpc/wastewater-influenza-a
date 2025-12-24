@@ -9,7 +9,6 @@ The project includes comprehensive data preprocessing, feature
 engineering, baseline and advanced classification models, and
 extensive evaluation using multiple performance metrics.
 
----
 
 ## Project Overview
 
@@ -22,7 +21,6 @@ This repository represents an **extended and improved version** of
 an earlier baseline analysis, incorporating more advanced models
 and evaluation strategies.
 
----
 
 ## Dataset
 
@@ -34,7 +32,6 @@ best practices.
 Please download it directly from the official source and place it
 locally if you wish to reproduce the analysis.
 
----
 
 ## Methodology
 
@@ -71,8 +68,6 @@ Models are evaluated using:
 
 Both hold-out testing and cross-validation results are reported.
 
----
-
 ## Repository Structure
 
 ```text
@@ -84,7 +79,6 @@ wastewater-influenza-a/
 ├─ LICENSE
 └─ README.md
 ```
-
 
 ## How to Run
 Clone the repository
@@ -101,3 +95,23 @@ the notebook.
 ## Presentation
 The project presentation slides are available in the presentation/
 folder.
+
+
+## Project Context and Related Work
+
+This repository represents one implementation of a shared project
+that addresses the same problem using the same publicly available
+wastewater dataset.
+
+The project was developed by a team of four members. Each team member
+worked independently on the same data and problem formulation, while
+exploring **different modeling approaches and techniques**.
+
+This repository contains one complete solution, including baseline
+and advanced machine learning models. Other team members implemented
+alternative models and methods in their own repositories.
+
+All implementations are independent, and the differences between them
+are primarily based on model selection, training strategies, and
+evaluation approaches.
+
